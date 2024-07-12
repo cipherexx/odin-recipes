@@ -1,2 +1,2 @@
 # odin-recipes
-Encompasses my work with The Odin Project
+Basic Recipe Website built with html
